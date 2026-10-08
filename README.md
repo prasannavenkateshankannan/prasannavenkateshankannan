@@ -1,0 +1,15 @@
+# 💫 About Me:
+Hi, I’m Prasanna Venkateshan 👋<br><br>💻 Frontier Engineer passionate about building intelligent, agent-driven systems and scalable AI applications.<br>🚀 Interested in Generative AI, Multi-Agent Systems, and Model Context Protocol (MCP).<br><br>🔧 What I work with:<br><br>Python | Java | Spring Boot<br>CrewAI | Microsoft AutoGen | LangChain | FastMCP<br>RAG, Tool Calling & LLM APIs<br>REST APIs, SQL & Backend Systems<br>Git, Postman, and modern dev tools<br><br>🧠 I enjoy building practical solutions to real problems, from a multi-agent financial services assistant to an automated customer support system with guardrails and smart escalation.<br><br>📂 Here you’ll find:<br><br>Agentic AI and multi-agent projects<br>Full-stack and backend development work<br>Experiments with RAG pipelines, MCP servers.<br><br>🚀 Turning ideas into intelligent systems...<br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prasanna-venkateshan-k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasannavenkateshankannan@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=prasannavenkateshankannan&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=prasannavenkateshankannan&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prasannavenkateshankannan&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
